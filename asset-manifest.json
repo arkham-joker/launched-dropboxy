@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/launched-dropboxy/static/css/main.5114857b.chunk.css",
+    "main.js": "/launched-dropboxy/static/js/main.381ca2c6.chunk.js",
+    "main.js.map": "/launched-dropboxy/static/js/main.381ca2c6.chunk.js.map",
+    "runtime-main.js": "/launched-dropboxy/static/js/runtime-main.ab879743.js",
+    "runtime-main.js.map": "/launched-dropboxy/static/js/runtime-main.ab879743.js.map",
+    "static/js/2.100cda05.chunk.js": "/launched-dropboxy/static/js/2.100cda05.chunk.js",
+    "static/js/2.100cda05.chunk.js.map": "/launched-dropboxy/static/js/2.100cda05.chunk.js.map",
+    "index.html": "/launched-dropboxy/index.html",
+    "precache-manifest.b9430b59411dd5a48c12612445330e10.js": "/launched-dropboxy/precache-manifest.b9430b59411dd5a48c12612445330e10.js",
+    "service-worker.js": "/launched-dropboxy/service-worker.js",
+    "static/css/main.5114857b.chunk.css.map": "/launched-dropboxy/static/css/main.5114857b.chunk.css.map",
+    "static/js/2.100cda05.chunk.js.LICENSE.txt": "/launched-dropboxy/static/js/2.100cda05.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/launched-dropboxy/static/media/logo.eba58014.svg",
+    "static/media/powder.jpg": "/launched-dropboxy/static/media/powder.32ffa381.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab879743.js",
+    "static/js/2.100cda05.chunk.js",
+    "static/css/main.5114857b.chunk.css",
+    "static/js/main.381ca2c6.chunk.js"
+  ]
+}
